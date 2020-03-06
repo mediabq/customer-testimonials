@@ -1,0 +1,17 @@
+{
+  "customer1": {
+    "name": "Lana Johnson",
+    "image": "client-1",
+    "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A sit illo recusandae consequatur aspernatur animi blanditiis consectetur voluptatum quis quae, laborum non laboriosam iure esse est mollitia libero enim."
+  },
+  "customer2": {
+    "name": "John Doe",
+    "image": "client-2",
+    "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A sit illo recusandae consequatur aspernatur animi blanditiis consectetur voluptatum quis quae, laborum non laboriosam iure esse est mollitia libero enim."
+  },
+  "customer3": {
+    "name": "John Three",
+    "image": "client-3",
+    "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A sit illo recusandae consequatur aspernatur animi blanditiis consectetur voluptatum quis quae, laborum non laboriosam iure esse est mollitia libero enim."
+  }
+}
